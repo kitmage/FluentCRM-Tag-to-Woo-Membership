@@ -2,8 +2,10 @@
 /**
  * Plugin Name: FluentCRM Tag to Woo Membership
  * Description: Map FluentCRM tags to WooCommerce Memberships plans and automatically enroll or unenroll WordPress users when tags are added or removed.
- * Version: 1.0.0
- * Author: Codex
+ * Version: 1.0.1
+ * Author: Mike@KitMage
+ * Author URI: https://kitmage.com
+ * URI: https://kitmage.com
  * License: GPL-2.0-or-later
  * Text Domain: fluentcrm-tag-to-woo-membership
  */
